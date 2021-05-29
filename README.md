@@ -9,6 +9,11 @@
 - ⚡ Fun fact: I've broken my spine... twice.
 ---
 ---
+![](https://github.com/iam-mike/gh-stats/blob/master/generated/overview.svg)
+![](https://github.com/iam-mike/gh-stats/blob/master/generated/languages.svg)
+
+---
+---
 More about me...  
 ---
 ---
