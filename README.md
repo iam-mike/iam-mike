@@ -8,14 +8,11 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I've broken my spine... twice.
 ---
----
 ![](https://github.com/iam-mike/gh-stats/blob/master/generated/overview.svg)
 ![](https://github.com/iam-mike/gh-stats/blob/master/generated/languages.svg)
 
 ---
----
 More about me...  
----
 ---
 ---
 ```json
@@ -54,12 +51,12 @@ More about me...
   }
 }
 ```
+
 ---
+### Thanks for stopping by!
 ---
 📫 How to reach me:  [![Twitter: Mikedentity](https://img.shields.io/twitter/follow/mikedentity?style=social)](https://twitter.com/mikedentity)
 [![Linkedin: mwitts](https://img.shields.io/badge/-mwitts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mwitts/)](https://www.linkedin.com/in/mwitts/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/iam-mike?label=follow&style=social)](https://github.com/iam-mike)
-
-#### Thanks for stopping by!
 ---
 ---
