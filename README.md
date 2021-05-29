@@ -1,7 +1,7 @@
 # <p align="center">Goodmorrow, everyone. 👋</p>
 
 
-✨ I'm Mike. Im a rock climber, motorcycle rider, identity specialist. I write code, too. 🔭 I currently work as a Customer Engineer at <a href="https://www.microsoft.com">Microsoft</a>. I'm forever learning and developing new skills.
+✨ I'm Mike. I am a rock climber, motorcycle rider, identity specialist. I write code, too. 🔭 I currently work as a Customer Engineer at <a href="https://www.microsoft.com">Microsoft</a>. I'm forever learning and developing new skills.
 
 - 💬 Ask me about Identity Management
 - 👯 I’m looking to collaborate on any open source projects, reach out if you need my help
