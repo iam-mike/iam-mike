@@ -6,7 +6,7 @@
 - 💬 Ask me about Identity Management
 - 👯 I’m looking to collaborate on any open source projects, reach out if you need my help
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I've broken my back... twice.
+- ⚡ Fun fact: I've broken my spine... twice.
 ---
 ---
 More about me...  
