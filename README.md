@@ -46,7 +46,8 @@ More about me...
     "learning": [
       "C",
       "TensorFlow",
-      "Kubernetes"
+      "Kubernetes",
+      "Python"
     ]
   }
 }
