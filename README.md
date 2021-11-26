@@ -56,8 +56,8 @@ More about me...
 ---
 ### Thanks for stopping by!
 ---
-📫 How to reach me:  [![Twitter: Mikedentity](https://img.shields.io/twitter/follow/mikedentity?style=social)](https://twitter.com/mikedentity)
+📫 How to reach me:  [![Twitter: MikeMSFT](https://img.shields.io/twitter/follow/mikemsft?style=social)](https://twitter.com/mikemsft)
 [![Linkedin: mwitts](https://img.shields.io/badge/-mwitts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mwitts/)](https://www.linkedin.com/in/mwitts/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/iam-mike?label=follow&style=social)](https://github.com/iam-mike)
+[![GitHub IAM-Mike](https://img.shields.io/github/followers/iam-mike?label=follow&style=social)](https://github.com/iam-mike)
 ---
 ---
