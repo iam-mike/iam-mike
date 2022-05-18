@@ -7,7 +7,9 @@
 Currently working as a Customer Success Tech Strategist and Solutions Architect at <a href="https://www.okta.com">Okta</a> </br>
  
 <b>Previously:</b>
-- <a href="https://www.microsoft.com">Microsoft</a>. </br>
+- <a href="https://www.microsoft.com">Microsoft</a>. 
+</br>
+</br>
 I'm forever learning and developing new skills.
 
 - 💬 Ask me about Identity Management
