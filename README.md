@@ -4,7 +4,7 @@
 ---
  </div>
 ✨ I'm Mike. I am a rock climber, motorcycle rider, identity specialist. I write code, too. 🔭 </br>
-Currently working as a Tech Strategist and Solutions Architect at <a href="https://www.okta.com">Okta</a> </br>
+Currently working as a Principal Tech Strategist and Architect at <a href="https://www.okta.com">Okta</a> </br>
  
 <b>Previously worked at: </b> <a href="https://www.microsoft.com">Microsoft</a>. 
 </br>
