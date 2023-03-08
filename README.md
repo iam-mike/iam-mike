@@ -37,9 +37,9 @@ More about me...
       ]
     },
     "professional": {
-      "employer": "Microsoft",
-      "title": "senior customer engineer",
-      "speciality": "identity & access management",
+      "employer": "Okta",
+      "title": "Technical Strategist & Architect",
+      "speciality": "Identity & Access Management",
       "languages": [
         "C#",
         "JavaScript",
@@ -48,13 +48,12 @@ More about me...
       "platforms": [
         "Azure",
         "Docker",
-        "GCP"
+        "GCP",
+        "Kubernetes"
       ]
     },
     "learning": [
-      "C",
       "TensorFlow",
-      "Kubernetes",
       "Python"
     ]
   }
