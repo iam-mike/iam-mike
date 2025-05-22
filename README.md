@@ -16,8 +16,10 @@ I'm forever learning and developing new skills.
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I've broken my spine... twice.
 ---
-![](https://github.com/iam-mike/gh-stats/blob/master/generated/overview.svg)
-![](https://github.com/iam-mike/gh-stats/blob/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/iam-mike/gh-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/iam-mike/gh-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/iam-mike/gh-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/iam-mike/gh-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ---
 More about me...  
